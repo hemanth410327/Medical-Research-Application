@@ -1,0 +1,9 @@
+﻿******************************* Welcome to Medical Research ****************************
+
+1. Add Disease Details
+2. Add Symptom to Disease
+3. Check Patient
+
+PRESS ANY OTHER KEY TO EXIT
+
+Enter your Choice
